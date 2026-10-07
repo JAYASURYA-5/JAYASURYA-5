@@ -11,6 +11,9 @@
 ## 👨‍💻 About Me
 
 **Final Year IT || AIT || President of IT Association & Coding Club 2026 || 1+Year Internship Experience**
+
+
+
 Results-driven Full Stack Developer with expertise in React.js, Node.js, Express.js, JavaScript, REST APIs.
 Skilled in Python, SQL, and modern web technologies, with practical exposure through internships and real-world
 projects. Proven leadership as a President of IT Department Association & Coding Club and **6x hackathon
