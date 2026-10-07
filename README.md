@@ -1,6 +1,6 @@
 # 👋 Hi, I'm K. Jayasurya
 
-### 🚀 Full-Stack Developer | Flutter Developer | Web Developer
+### 🚀 Full-Stack Developer | Flutter Developer | Web Developer | Software Development | Python Developer | Data Science
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Flutter+Developer;Building+Real-World+Projects;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
